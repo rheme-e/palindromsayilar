@@ -1,0 +1,2 @@
+# palindromsayilar
+palindromsayilar
